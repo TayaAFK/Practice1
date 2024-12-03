@@ -8,7 +8,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://tenor.com/ru/view/beaver-carrot-heart-eating-nibbling-gif-8805641863019250477" width="200"/>
 </div>
 
 ## About
