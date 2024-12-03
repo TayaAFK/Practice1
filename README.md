@@ -7,9 +7,7 @@
 
 </p>
 
-<div id="header" align="center">
-  <img src="https://tenor.com/ru/view/beaver-carrot-heart-eating-nibbling-gif-8805641863019250477" width="200"/>
-</div>
+<div class="tenor-gif-embed" data-postid="8805641863019250477" data-share-method="host" data-aspect-ratio="0.670683" data-width="100%"><a href="https://tenor.com/view/beaver-carrot-heart-eating-nibbling-gif-8805641863019250477">Beaver Carrot GIF</a>from <a href="https://tenor.com/search/beaver-gifs">Beaver GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## About
 
