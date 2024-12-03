@@ -7,16 +7,16 @@
 
 </p>
 
-<div class="tenor-gif-embed" data-postid="8805641863019250477" data-share-method="host" data-aspect-ratio="0.670683" data-width="100%"><a href="https://tenor.com/view/beaver-carrot-heart-eating-nibbling-gif-8805641863019250477">Beaver Carrot GIF</a>from <a href="https://tenor.com/search/beaver-gifs">Beaver GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-## About
+<h3 align="center"> Бобр для доп баллов 🤘 </h3>
+<p align="center">
+      <img src="https://i.pinimg.com/736x/72/97/c5/7297c5f45070e64c67b093478d9fc60c.jpg" width="200">
 
-About Text Here
+</p>
+<h1 align="center">СПАСИБО ЗА ВНИМАНИЕ!</h1>
 
-## Documentation
+<p align="center">
+      <img src="https://i.pinimg.com/736x/f7/5d/28/f75d28aaf2860200306ba2efc7a8852a.jpg" width="400">
 
-Documentation Here
+</p>
 
-<img src="https://tenor.com/ru/view/beaver-carrot-heart-eating-nibbling-gif-8805641863019250477" width="300">
-
-.
