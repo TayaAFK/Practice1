@@ -10,9 +10,9 @@
 
 
 
-<h3 align="center"> Бобр для доп баллов 🤘 </h3>
-<p align="center">
-      <img src="https://i.pinimg.com/736x/72/97/c5/7297c5f45070e64c67b093478d9fc60c.jpg" width="200">
+<h3> Бобр для доп баллов 🤘 </h3>
+<p>
+      <img src="https://i.pinimg.com/736x/72/97/c5/7297c5f45070e64c67b093478d9fc60c.jpg" width="150">
 
 </p>
 <h1 align="center">СПАСИБО ЗА ВНИМАНИЕ!</h1>
