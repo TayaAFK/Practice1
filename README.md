@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+      привет
    <img src="" alt="Unity Version">
    <img src="" alt="Game Version">
    <img src="" alt="License">
