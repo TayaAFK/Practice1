@@ -16,7 +16,6 @@ About Text Here
 
 Documentation Here
 
-<p align="center">
-      
-      ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-</p>
+<img src="https://tenor.com/ru/view/beaver-carrot-heart-eating-nibbling-gif-8805641863019250477" width="300">
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
