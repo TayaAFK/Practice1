@@ -6,7 +6,7 @@
       <img src="https://i.pinimg.com/736x/72/eb/5a/72eb5a580ee9d763bd156094e7ed4e6e.jpg" width="300">
 
 </p>
-
+![](https://github.com/TayaAFK/Practice1/blob/main/Gif/beaver-carrot.gif)
 ## About
 
 About Text Here
